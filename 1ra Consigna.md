@@ -2,62 +2,62 @@ Perfil Digital -> Huella Digital
 
 Registro/rastro/recorrido de lo que hacemos en *internet*
 
-Entretenimiento
-Videojuegos
-Redes Sociales
-Comerciales
-Homebanking
+- Entretenimiento
+- Videojuegos
+- Redes Sociales
+- Comerciales
+- Homebanking
 
-Epic Games
-Steam
-Origin
-Playstation
-Netflix
-YouTube
-Amazon Prime
-HBO Max
-Disney Plus
-Spotify
-Twitch
-Twitter
-Instagram
-Tik Tok
-Apple Music
-Los Sims
-Minecraft
-MercadoLibre
-MercadoPago
-Google Maps
+- Epic Games
+- Steam
+- Origin
+- Playstation
+- Netflix
+- YouTube
+- Amazon Prime
+- HBO Max
+- Disney Plus
+- Spotify
+- Twitch
+- Twitter
+- Instagram
+- Tik Tok
+- Apple Music
+- Los Sims
+- Minecraft
+- MercadoLibre
+- MercadoPago
+- Google Maps
 
-Historial de busqueda
-Historial de reproducciones
-Videos likeados
-Videos guardados
+- Historial de busqueda
+- Historial de reproducciones
+- Videos likeados
+- Videos guardados
 
-Google Maps/ Apple Maps
-Recorridos
-Ubicaciones
-Rutinas
+- Google Maps/ Apple Maps
+- Recorridos
+- Ubicaciones
+- Rutinas
+- 
+- Contactos y Amigos
+- Transacciones Bancarias
+- Transferencias y pagos
 
-Contactos y Amigos
-Transacciones Bancarias
-Transferencias y pagos
+- Apple Salud
 
-Apple Salud
+- Google
+	- Google Maps
+	- Google Search
+	- YouTube
+	- Google Drive
+	- Gmail
 
-Google
-	Google Maps
-	Google Search
-	YouTube
-	Google Drive
-	Gmail
+- Facebook/Instagram/Whatsapp
 
-Facebook/Instagram/Whatsapp
-
-Apple
-	Health
-	Fitness
-	TV+
+- Apple
+	- Health
+	- Fitness
+	- TV+
 
 Intereses
 Gustos
