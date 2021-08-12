@@ -67,5 +67,6 @@ Preferencias
 
 2. Descargar recolectar organizar y administrar todo estos archivos y datos que consigan y encuentren.
 
+3. Comenzar a armar su Perfil Digital (Word/PowerPoint/Figma). Contabilizando los datos a mano, y a medida que avancen las clases, automatizar el conteo con Python.
 
 
